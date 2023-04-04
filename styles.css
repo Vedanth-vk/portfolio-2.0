@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: rgb(164, 230, 235);
+
+}
+.Div {
+    /*background-color: rgb(178, 248, 253);*/
+    height: 700px;
+    width: 1520px;
+}
+
+.text {
+    font-family: 'Sacramento', 'cursive';
+    font-size: 70px;
+    position: relative;
+    top: 120px;
+    
+    
+}
+#txt {
+    font-size: 100px;
+}
+.mountain1 {
+    width: 300px;
+    position: absolute;
+    bottom: 40px;
+    left: 980px;
+
+}
+
+.mountain2 {
+    width: 700px;
+    position: absolute;
+    bottom: 40px;
+    left: 50px;
+}
+
+
+.cloud1 {
+    width: 300px;
+    position: absolute;
+    left: 100px;
+    top: 200px;
+
+}
+.cloud2 {
+    width: 250px;
+    position: absolute;
+    right: 200px;
+    top: 100px;
+
+}
+.pfp {
+    
+    width: 400px;
+    border: 10px solid rgb(146, 212, 228);
+    border-radius: 500px;
+} 
+.pfp:hover {
+    width: 420px;
+}
+.hello {
+    font-family:"Trebuchet MS";
+    font-size: 32px;
+}
+
+hr {
+    border-style: dotted;
+    width: 100px;
+    height: 20px;
+    color: rgb(101, 121, 155);
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-width: 12px;
+    }
+.ss {
+    border-width: 10px;
+    width: 70px;
+    color:rgb(59, 68, 83);
+}
+.title {
+    font-family: 'Kanit', sans-serif;
+    font-size: 35px;
+}
+
+.head{
+    font-family: 'Kanit', sans-serif;
+    font-size: 50px;
+}
+
+#head {
+    font-size: 80px;
+    font-family: 'Kanit', sans-serif;
+}
+.astro {
+    width: 250px;
+    border-radius: 500px;
+} 
+.bottom-container {
+    font-family:"Trebuchet MS";
+    font-size: 30px;
+    padding-top: 30px;
+    
+    
+}
+
+.footer-link1 {
+    position: absolute;
+    left: 300px;
+    color: black;
+}
+.footer-link2 {
+    position: absolute;
+    right: 300px;
+    color: black;
+}
+.footer-link3 {
+    color: black;
+}
+.copyright {
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    color:rgb(107, 126, 128)
+}
+.btn {
+    font-family:"Trebuchet MS";
+    font-size: 35px;
+    color: black;
+
+}
+.skill-image {
+    width: 250px;
+    border-radius: 20px;
+    border: 10px solid rgb(146, 212, 228);
+    margin-right: 10px;
+}
+.skill-code {
+    width: 650px;
+    border: 10px solid rgb(146, 212, 228);
+    margin-right: 20px;
+    border-radius: 20px;
+}
+#port {
+    height: 400px;
+    margin-left: 50px;
+}
+.skills-header {
+    background-color: rgb(111, 191, 198);
+}
